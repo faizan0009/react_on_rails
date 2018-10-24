@@ -15,6 +15,7 @@ gem "jbuilder"
 gem "jquery-rails"
 gem "mini_racer"
 gem "puma"
+gem 'react_on_rails', '11.1.4'
 
 gem "rails_12factor"
 gem "ruby-lint", require: false
